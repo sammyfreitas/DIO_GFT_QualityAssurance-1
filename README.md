@@ -1,18 +1,18 @@
 # GFT Quality Assurance #1
 https://web.dio.me/track/gft-quality-assurance-1
- Intermediário
-肋 64 hrs
+
+<div align="center"><img height="200em" src="https://hermes.digitalinnovation.one/tracks/936b7d01-ec68-409b-9db7-e1a5c06a3efe.png"/></div>
+
+
+      Intermediário 肋 64 hrs
 
 Conheça já o Bootcamp GFT Quality Assurance #1: um programa feito para você que planeja desenvolver suas habilidades em QA. Com cursos, desafios de códigos, mentorias e desafios de projeto, suas chances de ganhar destaque no mercado só aumentam! Não perca essa chance e inscreva-se já.
 
 
 Parabéns, você concluiu esse Bootcamp e agora está mais preparado para alcançar seus objetivos!
 
-<br>ATIVIDADES * MENTORIA * FÓRUM * DEVS * CERTIFICADO
-⭐️ 20 cursos
-⭐️ 2 desafios de projeto
-⭐️ 3 desafios de código
-⭐️ 1 live
+     ATIVIDADES * MENTORIA * FÓRUM * DEVS * CERTIFICADO
+     ⭐️ 20 cursos ⭐️ 2 desafios de projeto ⭐️ 3 desafios de código ⭐️ 1 live
 
 ## Conteúdo (26 atividades)
 * Curso: GFT Quality Assurance #1 |  Básico / 肋 1 hrs
